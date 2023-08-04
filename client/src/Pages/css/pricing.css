@@ -1,0 +1,19 @@
+.card-container {
+    display: flex;
+    height: 75vh;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    background-color: rgb(145, 176, 255);
+}
+
+.child {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 2rem;
+}
+
+.product-price:nth-child(-n + 2) {
+    display: none;
+}

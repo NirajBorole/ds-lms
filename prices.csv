@@ -1,0 +1,6 @@
+Price ID,Product ID,Product Name,Product Statement Descriptor,Product Tax Code,Description,Created (UTC),Amount,Currency,Interval,Interval Count,Usage Type,Aggregate Usage,Billing Scheme,Trial Period Days,Tax Behavior
+price_1NZqh8SCA6IegSioFAReFRco,prod_OMZqPCvE3ttBNd,MockTest,,,,2023-07-31 07:39,1200.00,inr,,,,,per_unit,,unspecified
+price_1NZqfOSCA6IegSioNBSn8rjy,prod_OMZplXQIqe3Py5,Expert,,,,2023-07-31 07:37,6200.00,inr,month,3,licensed,,per_unit,,unspecified
+price_1NZqekSCA6IegSioykfKXNAq,prod_OMZofJaVkPXFTE,Premium,,,,2023-07-31 07:36,4000.00,inr,month,3,licensed,,per_unit,,unspecified
+price_1NZqeJSCA6IegSio11bvhvd0,prod_OMZn8nqSxGRvfm,Standard,,,,2023-07-31 07:36,3200.00,inr,month,1,licensed,,per_unit,,unspecified
+price_1NZqdnSCA6IegSioo0K3HaQY,prod_OMZnVP39IO4QJH,Basic,,,,2023-07-31 07:35,1500.00,inr,month,1,licensed,,per_unit,,unspecified
